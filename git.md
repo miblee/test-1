@@ -1,0 +1,8 @@
+- git init : to start
+- git add <file name> : stage file
+- git commit : save a snapshot of the stage
+- git push : uploads to remote directory
+- git status : checks which files are changed or staged
+- git diff : lists changes between two commits
+- git pull : downloads changes from remote repo 
+- git clone : copies remote repo locally 
