@@ -6,3 +6,4 @@
 - git diff : lists changes between two commits
 - git pull : downloads changes from remote repo 
 - git clone : copies remote repo locally 
+- git log : displays list of commits
